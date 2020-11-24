@@ -1,0 +1,62 @@
+[
+    { 
+        "latitude": 13.7563, 
+        "longitude": 100.5018,
+        "properties": { 
+            "name": "Thailand",
+            "team": "thailand",
+            "tasks": "Publising"
+        },
+        "wrap": { 
+            "height": 47,
+            "width": 80
+        },
+        "coordinates": [100.5018, 13.7563],
+        "coordinatesTxt": [81.007151, 15.74845]
+    },
+    { 
+        "latitude": 10.8231, 
+        "longitude": 106.6297,
+        "properties": { 
+            "name": "Ho Chi Minh",
+            "team": "hochiminh",
+            "tasks": "Web Front-end, Web Back-end, iOS, Android"
+        },
+        "wrap": { 
+            "height": 65,
+            "width": 100
+        },
+        "coordinates": [106.6297, 10.8231],
+        "coordinatesTxt": [109.116739, 13.336536]
+    },
+    { 
+        "latitude": 21.0278, 
+        "longitude": 105.8342,
+        "properties": { 
+            "name": "Hanoi",
+            "team": "hanoi",
+            "tasks": "Business Center, Localization, Design UI/UX"
+        },
+        "wrap": { 
+            "height": 60,
+            "width": 85
+        },
+        "coordinates": [105.8342, 21.0278],
+        "coordinatesTxt": [109.106971, 24.49]
+    },
+    { 
+        "latitude": 37.5665, 
+        "longitude": 126.9780,
+        "properties": { 
+            "name": "Korea",
+            "team": "korea",
+            "tasks": "Head Quarter, Advanded Projects"
+        },
+        "wrap": { 
+            "height": 50,
+            "width": 80
+        },
+        "coordinates": [126.9780, 37.5665],
+        "coordinatesTxt": [110.992550, 40.536123]
+    }
+]
